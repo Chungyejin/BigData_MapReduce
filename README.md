@@ -1,18 +1,18 @@
 # Big-Data-Olympics
 
-Trabalho por: Isabella Vanderlinde Berkembrock, Michele Cristina Otta e Yejin Chung.
+Desenvolvido por: Isabella Vanderlinde Berkembrock, Michele Cristina Otta e Yejin Chung.
 
 
-Trabalho para a disciplina Big Data - PUCPR.
+Consultas utilizando MapReduce em um dataset de olimpíadas. Trabalho para a disciplina Big Data - PUCPR.
 
 # Dataset
-O Dataset utilizado para realizar as consultas é sobre as Olimpíadas 2024. 
+O dataset utilizado para realizar as consultas é sobre as Olimpíadas 2024. 
 
 
 Créditos: https://www.kaggle.com/datasets/willianoliveiragibin/olympics-2024
 
 # Consultas
-Foram realizadas 10 consultas por meio de MapReduce:
+Foram realizadas 10 consultas por MapReduce:
 
 Básicas
 1) Contagem de atletas por país.
