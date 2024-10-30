@@ -22,6 +22,8 @@ Básicas
 
 
 Intermediária
+
+
 5) Média das alturas.
 6) Porcentagem de mulheres atletas por país.
 7) Porcentagem de homens atletas por país.
@@ -29,5 +31,7 @@ Intermediária
 
 
 Avançada
+
+
 9) Cálculo da idade dos atletas e a média de suas idades.
 10) Média dos IMCS dos atletas, considerando os dados válidos apenas.
