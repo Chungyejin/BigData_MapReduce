@@ -21,7 +21,7 @@ Básicas
 4) Data de aniversário do atleta mais novo.
 
 
-Intermediária
+Intermediárias
 
 
 5) Média das alturas.
@@ -30,7 +30,7 @@ Intermediária
 8) Altura máxima, e nome do respectivo atleta, de cada país.
 
 
-Avançada
+Avançadas
 
 
 9) Cálculo da idade dos atletas e a média de suas idades.
