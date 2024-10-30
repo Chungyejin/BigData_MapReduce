@@ -1,10 +1,14 @@
 # Big-Data-Olympics
 
 Trabalho por: Isabella Vanderlinde Berkembrock, Michele Cristina Otta e Yejin Chung
+
+
 Trabalho da disciplina Big Data - PUCPR.
 
 # Dataset
 O Dataset utilizado para realizar as consultas é sobre as Olimpíadas 2024. 
+
+
 Créditos: https://www.kaggle.com/datasets/willianoliveiragibin/olympics-2024
 
 # Consultas
